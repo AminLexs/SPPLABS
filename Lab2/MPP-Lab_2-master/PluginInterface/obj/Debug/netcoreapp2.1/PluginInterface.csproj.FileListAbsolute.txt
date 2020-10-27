@@ -1,8 +1,0 @@
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\bin\Debug\netcoreapp2.1\PluginInterface.deps.json
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\bin\Debug\netcoreapp2.1\PluginInterface.dll
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\bin\Debug\netcoreapp2.1\PluginInterface.pdb
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\obj\Debug\netcoreapp2.1\PluginInterface.csproj.CoreCompileInputs.cache
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\obj\Debug\netcoreapp2.1\PluginInterface.AssemblyInfoInputs.cache
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\obj\Debug\netcoreapp2.1\PluginInterface.AssemblyInfo.cs
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\obj\Debug\netcoreapp2.1\PluginInterface.dll
-D:\5sem\СПП\MPP-Lab_2-master\PluginInterface\obj\Debug\netcoreapp2.1\PluginInterface.pdb
