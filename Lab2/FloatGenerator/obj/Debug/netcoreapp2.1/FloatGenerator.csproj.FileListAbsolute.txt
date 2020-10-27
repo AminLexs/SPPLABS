@@ -1,0 +1,12 @@
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\bin\Debug\netcoreapp2.1\FloatGenerator.deps.json
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\bin\Debug\netcoreapp2.1\FloatGenerator.dll
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\bin\Debug\netcoreapp2.1\FloatGenerator.pdb
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\bin\Debug\netcoreapp2.1\PluginInterface.dll
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\bin\Debug\netcoreapp2.1\PluginInterface.pdb
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\obj\Debug\netcoreapp2.1\FloatGenerator.csprojAssemblyReference.cache
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\obj\Debug\netcoreapp2.1\FloatGenerator.csproj.CoreCompileInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\obj\Debug\netcoreapp2.1\FloatGenerator.AssemblyInfoInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\obj\Debug\netcoreapp2.1\FloatGenerator.AssemblyInfo.cs
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\obj\Debug\netcoreapp2.1\FloatGenerator.csproj.CopyComplete
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\obj\Debug\netcoreapp2.1\FloatGenerator.dll
+D:\5sem\СПП\MPP-Lab_2-master\FloatGenerator\obj\Debug\netcoreapp2.1\FloatGenerator.pdb

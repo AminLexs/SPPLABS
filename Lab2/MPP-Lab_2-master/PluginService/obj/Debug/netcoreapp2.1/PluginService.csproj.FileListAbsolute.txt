@@ -1,0 +1,3 @@
+D:\5sem\СПП\MPP-Lab_2-master\PluginService\obj\Debug\netcoreapp2.1\PluginService.csproj.CoreCompileInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\PluginService\obj\Debug\netcoreapp2.1\PluginService.AssemblyInfoInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\PluginService\obj\Debug\netcoreapp2.1\PluginService.AssemblyInfo.cs

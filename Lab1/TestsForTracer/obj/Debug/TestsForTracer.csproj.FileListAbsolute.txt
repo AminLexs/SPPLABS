@@ -7,3 +7,12 @@ D:\СПП\TestsForTracer\obj\Debug\TestsForTracer.csproj.CoreCompileInputs.cache
 D:\СПП\TestsForTracer\obj\Debug\TestsForTracer.csproj.CopyComplete
 D:\СПП\TestsForTracer\obj\Debug\TestsForTracer.dll
 D:\СПП\TestsForTracer\obj\Debug\TestsForTracer.pdb
+D:\СПП\Lab1\TestsForTracer\bin\Debug\TestsForTracer.dll
+D:\СПП\Lab1\TestsForTracer\bin\Debug\TestsForTracer.pdb
+D:\СПП\Lab1\TestsForTracer\bin\Debug\Tracer.dll
+D:\СПП\Lab1\TestsForTracer\bin\Debug\Tracer.pdb
+D:\СПП\Lab1\TestsForTracer\obj\Debug\TestsForTracer.csprojAssemblyReference.cache
+D:\СПП\Lab1\TestsForTracer\obj\Debug\TestsForTracer.csproj.CoreCompileInputs.cache
+D:\СПП\Lab1\TestsForTracer\obj\Debug\TestsForTracer.csproj.CopyComplete
+D:\СПП\Lab1\TestsForTracer\obj\Debug\TestsForTracer.dll
+D:\СПП\Lab1\TestsForTracer\obj\Debug\TestsForTracer.pdb

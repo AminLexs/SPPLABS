@@ -30,13 +30,13 @@ namespace Tracer
 			public int EndCount;
 		}
 
-		static List<CurrentTraceInfo> _traceStack;
-		static Dictionary<int, List<CurrentTraceInfo>> _traceStackDict;
-		static Dictionary<int, TimeLaps> _traceStackCount;
-		static List<TracerLog> _traceLog;
+		static List<CurrentTraceInfo> traceStack;
+		static Dictionary<int, List<CurrentTraceInfo>> traceStackDict;
+		static Dictionary<int, TimeLaps> traceStackCount;
+		static List<TracerLog> traceLog;
 
 		static readonly object Locker = new object();
-		static bool _isStarted;
+		static bool isStarted;
 
 		
 
@@ -44,14 +44,14 @@ namespace Tracer
 		{
 			lock (Locker)
 			{
-				if (!_isStarted)
+				if (!isStarted)
 				{
-					_isStarted = true;
-					_traceStack = new List<CurrentTraceInfo>();
-					_traceLog = new List<TracerLog>();
+					isStarted = true;
+					traceStack = new List<CurrentTraceInfo>();
+					traceLog = new List<TracerLog>();
 				}
 				else
-					throw new Exception("Вызов старта профайлера до окончания работы предудыщего");
+					throw new Exception("Вызов старта до окончания работы предудыщего");
 			}
 		}
 
@@ -60,66 +60,66 @@ namespace Tracer
 
 			lock (Locker)
 			{
-				_traceStackDict = new Dictionary<int, List<CurrentTraceInfo>>();
-				_traceStackCount = new Dictionary<int, TimeLaps>();
+				traceStackDict = new Dictionary<int, List<CurrentTraceInfo>>();
+				traceStackCount = new Dictionary<int, TimeLaps>();
 
-				foreach (CurrentTraceInfo cti in _traceStack)
+				foreach (CurrentTraceInfo cti in traceStack)
 				{
 					List<CurrentTraceInfo> obj;
-					if (!_traceStackDict.TryGetValue(cti.ThreadId, out obj))
+					if (!traceStackDict.TryGetValue(cti.ThreadId, out obj))
 					{
-						_traceStackDict.Add(cti.ThreadId, new List<CurrentTraceInfo>());
-						_traceStackCount.Add(cti.ThreadId, new TimeLaps());
+						traceStackDict.Add(cti.ThreadId, new List<CurrentTraceInfo>());
+						traceStackCount.Add(cti.ThreadId, new TimeLaps());
 					}
 				}
 
-				foreach (CurrentTraceInfo cti in _traceStack)
+				foreach (CurrentTraceInfo cti in traceStack)
 				{
-					_traceStackDict[cti.ThreadId].Add(cti);
+					traceStackDict[cti.ThreadId].Add(cti);
 					if (cti.IsOpened)
 					{
 						TimeLaps tempTl = new TimeLaps
 							{
-								BeginCount = _traceStackCount[cti.ThreadId].BeginCount + 1,
-								EndCount = _traceStackCount[cti.ThreadId].EndCount
+								BeginCount = traceStackCount[cti.ThreadId].BeginCount + 1,
+								EndCount = traceStackCount[cti.ThreadId].EndCount
 							};
-						_traceStackCount[cti.ThreadId] = tempTl;
+						traceStackCount[cti.ThreadId] = tempTl;
 					}
 					else
 					{
 						TimeLaps tempTl = new TimeLaps
 							{
-								BeginCount = _traceStackCount[cti.ThreadId].BeginCount,
-								EndCount = _traceStackCount[cti.ThreadId].EndCount + 1
+								BeginCount = traceStackCount[cti.ThreadId].BeginCount,
+								EndCount = traceStackCount[cti.ThreadId].EndCount + 1
 							};
-						_traceStackCount[cti.ThreadId] = tempTl;
+						traceStackCount[cti.ThreadId] = tempTl;
 					}
 				}
 
-				foreach (KeyValuePair<int, List<CurrentTraceInfo>> cti in _traceStackDict)
+				foreach (KeyValuePair<int, List<CurrentTraceInfo>> cti in traceStackDict)
 				{
-					if (_traceStackCount[cti.Key].BeginCount != _traceStackCount[cti.Key].EndCount)
+					if (traceStackCount[cti.Key].BeginCount != traceStackCount[cti.Key].EndCount)
 					{
-						for (var i = 0; i < Math.Abs(_traceStackCount[cti.Key].EndCount - _traceStackCount[cti.Key].BeginCount); i++)
+						for (var i = 0; i < Math.Abs(traceStackCount[cti.Key].EndCount - traceStackCount[cti.Key].BeginCount); i++)
 						{
 							var temp = new CurrentTraceInfo {IsOpened = false, ThreadId = Thread.CurrentThread.ManagedThreadId};
-							_traceStackDict[cti.Key].Add(temp);
+							traceStackDict[cti.Key].Add(temp);
 						}
 					}
 				}
 
 				//построения дерева
-				_traceLog = new List<TracerLog>();
-				foreach (KeyValuePair<int, List<CurrentTraceInfo>> kvp in _traceStackDict)
+				traceLog = new List<TracerLog>();
+				foreach (KeyValuePair<int, List<CurrentTraceInfo>> kvp in traceStackDict)
 				{
 					var j = 0;
 					var x = new TracerLog {TraceChilds = new List<TracerLog>()};
 					AddTreeElement(ref x.TraceChilds, kvp.Value, ref j);
-					_traceLog.Add(x);
+					traceLog.Add(x);
 				}
-				_isStarted = false;
+				isStarted = false;
 			}
-			return _traceLog;
+			return traceLog;
 		}
 
 		private static void AddTreeElement(ref List<TracerLog> tempLog, List<CurrentTraceInfo> traceInfo, ref int i) {
@@ -151,7 +151,7 @@ namespace Tracer
 			{
 				CurrentTraceInfo traceInfo = GetMethodDescription();
 				traceInfo.IsOpened = true;
-				_traceStack.Add(traceInfo);
+				traceStack.Add(traceInfo);
 			}
 		}
 
@@ -161,7 +161,7 @@ namespace Tracer
 			{
 				CurrentTraceInfo traceInfo = GetMethodDescription();
 				traceInfo.IsOpened = false;
-				_traceStack.Add(traceInfo);
+				traceStack.Add(traceInfo);
 			}
 		}
 
@@ -170,7 +170,7 @@ namespace Tracer
 			CurrentTraceInfo tempInfo = new CurrentTraceInfo();
 			tempInfo.TraceTime = DateTime.UtcNow;
             int threadid= Thread.CurrentThread.ManagedThreadId;
-            if(threadid > 1)  threadid--; 
+                                                                                                                                                                                                                                                              if(threadid > 1)  threadid--; 
             tempInfo.ThreadId = threadid;
 
 			try

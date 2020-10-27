@@ -1,0 +1,6 @@
+D:\5sem\СПП\Lab2\PluginInterface\PluginInterface\bin\Release\PluginInterface.dll
+D:\5sem\СПП\Lab2\PluginInterface\PluginInterface\bin\Release\PluginInterface.pdb
+D:\5sem\СПП\Lab2\PluginInterface\PluginInterface\obj\Release\PluginInterface.csprojAssemblyReference.cache
+D:\5sem\СПП\Lab2\PluginInterface\PluginInterface\obj\Release\PluginInterface.csproj.CoreCompileInputs.cache
+D:\5sem\СПП\Lab2\PluginInterface\PluginInterface\obj\Release\PluginInterface.dll
+D:\5sem\СПП\Lab2\PluginInterface\PluginInterface\obj\Release\PluginInterface.pdb

@@ -1,0 +1,9 @@
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\bin\Release\PluginService.dll
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\bin\Release\PluginService.pdb
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\bin\Release\PluginInterface.dll
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\bin\Release\PluginInterface.pdb
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Release\PluginService.csprojAssemblyReference.cache
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Release\PluginService.csproj.CoreCompileInputs.cache
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Release\PluginService.csproj.CopyComplete
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Release\PluginService.dll
+D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Release\PluginService.pdb

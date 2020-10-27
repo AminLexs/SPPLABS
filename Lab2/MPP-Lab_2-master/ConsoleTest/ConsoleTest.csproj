@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="IPlugin.cs" />
+      <Compile Remove="PluginService.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Faker\Faker.csproj" />
+      <ProjectReference Include="..\PluginService\PluginService.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Faker, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\Faker\bin\Debug\netcoreapp3.1\Faker.dll</HintPath>
+      </Reference>
+      <Reference Include="PluginInterface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\PluginInterface\bin\Debug\netcoreapp3.1\PluginInterface.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
+  

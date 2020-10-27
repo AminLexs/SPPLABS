@@ -1,0 +1,4 @@
+D:\5sem\СПП\MPP-Lab_2-master\Faker\obj\Debug\netcoreapp2.1\Faker.csproj.CoreCompileInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\Faker\obj\Debug\netcoreapp2.1\Faker.AssemblyInfoInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\Faker\obj\Debug\netcoreapp2.1\Faker.AssemblyInfo.cs
+D:\5sem\СПП\MPP-Lab_2-master\Faker\obj\Debug\netcoreapp2.1\Faker.csprojAssemblyReference.cache

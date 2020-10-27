@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ConsoleTest/1.0.0": {
+        "dependencies": {
+          "Faker": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleTest.dll": {}
+        }
+      },
+      "Faker/1.0.0": {
+        "dependencies": {
+          "PluginInterface": "1.0.0",
+          "PluginService": "1.0.0"
+        },
+        "runtime": {
+          "Faker.dll": {}
+        }
+      },
+      "PluginInterface/1.0.0": {
+        "runtime": {
+          "PluginInterface.dll": {}
+        }
+      },
+      "PluginService/1.0.0": {
+        "dependencies": {
+          "PluginInterface": "1.0.0"
+        },
+        "runtime": {
+          "PluginService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Faker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PluginInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PluginService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

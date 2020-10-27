@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj": {}
+  },
+  "projects": {
+    "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj",
+        "projectName": "ConsoleTest",
+        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj": {
+                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj",
+        "projectName": "Faker",
+        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
+                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
+              },
+              "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj": {
+                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj",
+        "projectName": "PluginInterface",
+        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj",
+        "projectName": "PluginService",
+        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
+                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    }
+  }
+}

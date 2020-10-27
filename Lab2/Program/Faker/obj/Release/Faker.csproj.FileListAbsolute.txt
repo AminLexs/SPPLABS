@@ -1,0 +1,11 @@
+D:\5sem\СПП\Lab2\PluginInterface\Faker\bin\Release\Faker.dll
+D:\5sem\СПП\Lab2\PluginInterface\Faker\bin\Release\Faker.pdb
+D:\5sem\СПП\Lab2\PluginInterface\Faker\bin\Release\PluginInterface.dll
+D:\5sem\СПП\Lab2\PluginInterface\Faker\bin\Release\PluginService.dll
+D:\5sem\СПП\Lab2\PluginInterface\Faker\bin\Release\PluginInterface.pdb
+D:\5sem\СПП\Lab2\PluginInterface\Faker\bin\Release\PluginService.pdb
+D:\5sem\СПП\Lab2\PluginInterface\Faker\obj\Release\Faker.csprojAssemblyReference.cache
+D:\5sem\СПП\Lab2\PluginInterface\Faker\obj\Release\Faker.csproj.CoreCompileInputs.cache
+D:\5sem\СПП\Lab2\PluginInterface\Faker\obj\Release\Faker.csproj.CopyComplete
+D:\5sem\СПП\Lab2\PluginInterface\Faker\obj\Release\Faker.dll
+D:\5sem\СПП\Lab2\PluginInterface\Faker\obj\Release\Faker.pdb

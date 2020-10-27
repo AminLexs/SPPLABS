@@ -15,3 +15,9 @@ D:\СПП\Tracer\obj\x86\Debug\Tracer.csprojAssemblyReference.cache
 D:\СПП\Tracer\obj\x86\Debug\Tracer.csproj.CoreCompileInputs.cache
 D:\СПП\Tracer\obj\x86\Debug\Tracer.dll
 D:\СПП\Tracer\obj\x86\Debug\Tracer.pdb
+D:\СПП\Lab1\Tracer\bin\Debug\Tracer.dll
+D:\СПП\Lab1\Tracer\bin\Debug\Tracer.pdb
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.csprojAssemblyReference.cache
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.csproj.CoreCompileInputs.cache
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.dll
+D:\СПП\Lab1\Tracer\obj\x86\Debug\Tracer.pdb

@@ -1,0 +1,12 @@
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\bin\Debug\netcoreapp2.1\IntegerGenerator.deps.json
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\bin\Debug\netcoreapp2.1\IntegerGenerator.dll
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\bin\Debug\netcoreapp2.1\IntegerGenerator.pdb
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\bin\Debug\netcoreapp2.1\PluginInterface.dll
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\bin\Debug\netcoreapp2.1\PluginInterface.pdb
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\obj\Debug\netcoreapp2.1\IntegerGenerator.csprojAssemblyReference.cache
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\obj\Debug\netcoreapp2.1\IntegerGenerator.csproj.CoreCompileInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\obj\Debug\netcoreapp2.1\IntegerGenerator.AssemblyInfoInputs.cache
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\obj\Debug\netcoreapp2.1\IntegerGenerator.AssemblyInfo.cs
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\obj\Debug\netcoreapp2.1\IntegerGenerator.csproj.CopyComplete
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\obj\Debug\netcoreapp2.1\IntegerGenerator.dll
+D:\5sem\СПП\MPP-Lab_2-master\IntegerGenerator\obj\Debug\netcoreapp2.1\IntegerGenerator.pdb
