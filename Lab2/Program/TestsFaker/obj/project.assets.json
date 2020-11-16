@@ -5871,11 +5871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
+      "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
       "projectName": "TestsFaker",
-      "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
+      "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\obj\\",
+      "outputPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5894,11 +5894,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj": {
-              "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj"
+            "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj": {
+              "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj"
             },
-            "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj": {
-              "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj"
+            "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj": {
+              "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj"
             }
           }
         }

@@ -744,11 +744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj",
+      "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj",
       "projectName": "ConsoleTest",
-      "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj",
+      "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\ConsoleTest\\ConsoleTest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\5sem\\СПП\\Lab2\\Program\\ConsoleTest\\obj\\",
+      "outputPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\ConsoleTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -767,8 +767,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj": {
-              "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj"
+            "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj": {
+              "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj"
             }
           }
         }

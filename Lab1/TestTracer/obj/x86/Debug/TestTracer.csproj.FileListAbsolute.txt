@@ -42,3 +42,16 @@ D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CoreCompileInputs.cach
 D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CopyComplete
 D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.exe
 D:\СПП\Lab1\TestTracer\obj\x86\Debug\TestTracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestTracer.exe.config
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestTracer.exe
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestTracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\Newtonsoft.Json.dll
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestsForTracer.dll
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\Tracer.dll
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\TestsForTracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\bin\Debug\Tracer.pdb
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.csprojAssemblyReference.cache
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CoreCompileInputs.cache
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.csproj.CopyComplete
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.exe
+D:\5sem\СПП(GitHub)\Lab1\TestTracer\obj\x86\Debug\TestTracer.pdb

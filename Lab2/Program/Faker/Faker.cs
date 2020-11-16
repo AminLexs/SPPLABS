@@ -8,40 +8,40 @@ namespace Faker
 {
     public class Faker
     {
-        private List<Type> _innerDTOTypes;
-        private List<IPlugin> _plugins;
-        private Dictionary<string, Func<dynamic>> _generators;
+        private List<Type> DTOTypes;
+        private List<IPlugin> plugins;
+        private Dictionary<string, Func<dynamic>> generators;
 
         public Faker()
         {
 
-            _innerDTOTypes = new List<Type>();
-            _generators = new Dictionary<string, Func<dynamic>>();
+            DTOTypes = new List<Type>();
+            generators = new Dictionary<string, Func<dynamic>>();
             PluginService.PluginService pluginService = new PluginService.PluginService();
-            _plugins = pluginService.Plugins;
+            plugins = pluginService.Plugins;
 
-            foreach (var plugin in _plugins)
+            foreach (var plugin in plugins)
             {
-                _generators.Add(plugin.GetGeneratorTypeName(), plugin.GenerateValue);
+                generators.Add(plugin.GetGeneratorTypeName(), plugin.GenerateValue);
             }
 
-            _generators.Add("List`1", null);
+            generators.Add("List`1", null);
 
         }
 
         private ConstructorInfo GetMaxParamsConstr(ConstructorInfo[] constructors)
         {
-            int position = 0;
+            int posit = 0;
             int amountOfParams = 0;
             for (int i = 0; i < constructors.Length; i++)
             {
                 if (constructors[i].GetParameters().Length > amountOfParams)
                 {
                     amountOfParams = constructors[i].GetParameters().Length;
-                    position = i;
+                    posit = i;
                 }
             }
-            return constructors[position];
+            return constructors[posit];
         }
 
         private dynamic[] GetValuesForConstructor(ConstructorInfo constructorInfo)
@@ -63,7 +63,7 @@ namespace Faker
 
             foreach (FieldInfo field in fields)
             {
-                if (!field.FieldType.IsValueType && !_generators.ContainsKey(field.FieldType.Name))
+                if (!field.FieldType.IsValueType && !generators.ContainsKey(field.FieldType.Name))
                 {
                     field.SetValue(obj, CreateDto(field.FieldType));
                 }
@@ -82,7 +82,7 @@ namespace Faker
             {
                 if (property.GetSetMethod() != null)
                 {
-                    if (!property.PropertyType.IsValueType && !_generators.ContainsKey(property.PropertyType.Name))
+                    if (!property.PropertyType.IsValueType && !generators.ContainsKey(property.PropertyType.Name))
                     {
                         property.SetValue(obj, CreateDto(property.PropertyType));
                     }
@@ -97,12 +97,12 @@ namespace Faker
 
         private object CreateDto(Type objType)
         {
-            if (_innerDTOTypes.Contains(objType))
+            if (DTOTypes.Contains(objType))
             {
                 return null;
             }
 
-            _innerDTOTypes.Add(objType);
+            DTOTypes.Add(objType);
 
             object obj = null;
             var classConstructors = objType.GetConstructors();
@@ -117,7 +117,7 @@ namespace Faker
                 }
                 catch
                 {
-                    _innerDTOTypes.RemoveAt(_innerDTOTypes.Count - 1);
+                    DTOTypes.RemoveAt(DTOTypes.Count - 1);
                     return null;
                 }
 
@@ -132,7 +132,7 @@ namespace Faker
                 }
             }
 
-            _innerDTOTypes.RemoveAt(_innerDTOTypes.Count - 1);
+            DTOTypes.RemoveAt(DTOTypes.Count - 1);
 
             return obj;
 
@@ -152,7 +152,7 @@ namespace Faker
                 return ListGenerator(type);
             }
 
-            if (_generators.TryGetValue(type.Name, out generator))
+            if (generators.TryGetValue(type.Name, out generator))
             {
                 return generator.Invoke();
 
@@ -178,7 +178,7 @@ namespace Faker
 
             for (int i = 0; i < 10; i++)
             {
-                if (!_innerDTOTypes.Contains(innerType) && !type.IsValueType)
+                if (!DTOTypes.Contains(innerType) && !type.IsValueType)
                 {
                     list.Add(CreateDto(innerType));
                 }

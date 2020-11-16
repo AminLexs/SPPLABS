@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5sem\\СПП\\MPP-Lab_2-master\\FloatGenerator\\FloatGenerator.csproj",
+      "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\FloatGenerator\\FloatGenerator.csproj",
       "projectName": "FloatGenerator",
-      "projectPath": "D:\\5sem\\СПП\\MPP-Lab_2-master\\FloatGenerator\\FloatGenerator.csproj",
+      "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\FloatGenerator\\FloatGenerator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\5sem\\СПП\\MPP-Lab_2-master\\FloatGenerator\\obj\\",
+      "outputPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\FloatGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

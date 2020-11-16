@@ -1,0 +1,9 @@
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\bin\Debug\netstandard2.0\AssemblyBrowserLib.deps.json
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\bin\Debug\netstandard2.0\AssemblyBrowserLib.dll
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\bin\Debug\netstandard2.0\AssemblyBrowserLib.pdb
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\obj\Debug\netstandard2.0\AssemblyBrowserLib.csprojAssemblyReference.cache
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\obj\Debug\netstandard2.0\AssemblyBrowserLib.csproj.CoreCompileInputs.cache
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\obj\Debug\netstandard2.0\AssemblyBrowserLib.AssemblyInfoInputs.cache
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\obj\Debug\netstandard2.0\AssemblyBrowserLib.AssemblyInfo.cs
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\obj\Debug\netstandard2.0\AssemblyBrowserLib.dll
+D:\5sem\СПП(Материалы)\MPP03-master\AssemblyBrowserLib\obj\Debug\netstandard2.0\AssemblyBrowserLib.pdb

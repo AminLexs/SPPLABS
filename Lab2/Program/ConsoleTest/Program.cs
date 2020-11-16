@@ -32,6 +32,7 @@ namespace ConsoleTest
         public int number;
         public DateTime date;
         public Bar bar;
+   
     }
 
     class Bar

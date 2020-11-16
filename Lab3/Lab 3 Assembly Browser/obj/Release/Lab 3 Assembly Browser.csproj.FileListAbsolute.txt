@@ -1,0 +1,19 @@
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\bin\Release\Lab 3 Assembly Browser.exe.config
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\bin\Release\Lab 3 Assembly Browser.exe
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\bin\Release\Lab 3 Assembly Browser.pdb
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\bin\Release\AssemblyBrowserLib.dll
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\bin\Release\AssemblyBrowserLib.pdb
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser.csprojAssemblyReference.cache
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\View\MainWindow.g.cs
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\App.g.cs
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser_MarkupCompile.cache
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser_MarkupCompile.lref
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\View\MainWindow.baml
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser.g.resources
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab_3_Assembly_Browser.Properties.Resources.resources
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser.csproj.GenerateResource.cache
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser.csproj.CoreCompileInputs.cache
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser.csproj.CopyComplete
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser.exe
+D:\5sem\СПП(Материалы)\MPP03-master\Lab 3 Assembly Browser\obj\Release\Lab 3 Assembly Browser.pdb

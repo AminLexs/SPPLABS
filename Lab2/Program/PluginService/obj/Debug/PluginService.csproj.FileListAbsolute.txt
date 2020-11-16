@@ -7,3 +7,12 @@ D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Debug\PluginService.csproj
 D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Debug\PluginService.csproj.CopyComplete
 D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Debug\PluginService.dll
 D:\5sem\СПП\Lab2\PluginInterface\PluginService\obj\Debug\PluginService.pdb
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\bin\Debug\PluginService.dll
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\bin\Debug\PluginService.pdb
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\bin\Debug\PluginInterface.dll
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\bin\Debug\PluginInterface.pdb
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\obj\Debug\PluginService.csprojAssemblyReference.cache
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\obj\Debug\PluginService.csproj.CoreCompileInputs.cache
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\obj\Debug\PluginService.csproj.CopyComplete
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\obj\Debug\PluginService.dll
+D:\5sem\СПП(GitHub)\Lab2\Program\PluginService\obj\Debug\PluginService.pdb

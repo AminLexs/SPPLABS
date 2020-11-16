@@ -9,3 +9,8 @@ D:\5sem\СПП\MPP-Lab_2-master\DateTimeGenerator\bin\Debug\netcoreapp2.1\Plugin
 D:\5sem\СПП\MPP-Lab_2-master\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.csproj.CopyComplete
 D:\5sem\СПП\MPP-Lab_2-master\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.dll
 D:\5sem\СПП\MPP-Lab_2-master\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.pdb
+D:\5sem\СПП(GitHub)\Lab2\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.csproj.CoreCompileInputs.cache
+D:\5sem\СПП(GitHub)\Lab2\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.AssemblyInfoInputs.cache
+D:\5sem\СПП(GitHub)\Lab2\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.AssemblyInfo.cs
+D:\5sem\СПП(GitHub)\Lab2\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.dll
+D:\5sem\СПП(GitHub)\Lab2\DateTimeGenerator\obj\Debug\netcoreapp2.1\DateTimeGenerator.pdb

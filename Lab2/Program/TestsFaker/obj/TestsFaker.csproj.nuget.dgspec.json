@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj": {}
+    "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj": {}
   },
   "projects": {
-    "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj": {
+    "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj",
+        "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj",
         "projectName": "Faker",
-        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj",
+        "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj",
         "frameworks": {
           "net45": {
             "projectReferences": {
-              "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
-                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
+              "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
+                "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
               },
-              "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj": {
-                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj"
+              "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj": {
+                "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj"
               }
             }
           }
@@ -27,28 +27,28 @@
         "net45": {}
       }
     },
-    "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
+    "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj",
+        "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj",
         "projectName": "PluginInterface",
-        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
+        "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
       },
       "frameworks": {
         "net45": {}
       }
     },
-    "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj": {
+    "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj",
+        "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj",
         "projectName": "PluginService",
-        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj",
+        "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj",
         "frameworks": {
           "net45": {
             "projectReferences": {
-              "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
-                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
+              "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj": {
+                "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginInterface\\PluginInterface.csproj"
               }
             }
           }
@@ -58,14 +58,14 @@
         "net45": {}
       }
     },
-    "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj": {
+    "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
+        "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
         "projectName": "TestsFaker",
-        "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
+        "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\TestsFaker.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\5sem\\СПП\\Lab2\\Program\\TestsFaker\\obj\\",
+        "outputPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\TestsFaker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -84,11 +84,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj": {
-                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\Faker\\Faker.csproj"
+              "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj": {
+                "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\Faker\\Faker.csproj"
               },
-              "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj": {
-                "projectPath": "D:\\5sem\\СПП\\Lab2\\Program\\PluginService\\PluginService.csproj"
+              "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj": {
+                "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\Program\\PluginService\\PluginService.csproj"
               }
             }
           }

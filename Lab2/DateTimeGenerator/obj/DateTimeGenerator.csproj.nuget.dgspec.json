@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5sem\\СПП\\MPP-Lab_2-master\\DateTimeGenerator\\DateTimeGenerator.csproj": {}
+    "D:\\5sem\\СПП(GitHub)\\Lab2\\DateTimeGenerator\\DateTimeGenerator.csproj": {}
   },
   "projects": {
-    "D:\\5sem\\СПП\\MPP-Lab_2-master\\DateTimeGenerator\\DateTimeGenerator.csproj": {
+    "D:\\5sem\\СПП(GitHub)\\Lab2\\DateTimeGenerator\\DateTimeGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5sem\\СПП\\MPP-Lab_2-master\\DateTimeGenerator\\DateTimeGenerator.csproj",
+        "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\DateTimeGenerator\\DateTimeGenerator.csproj",
         "projectName": "DateTimeGenerator",
-        "projectPath": "D:\\5sem\\СПП\\MPP-Lab_2-master\\DateTimeGenerator\\DateTimeGenerator.csproj",
+        "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\DateTimeGenerator\\DateTimeGenerator.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\5sem\\СПП\\MPP-Lab_2-master\\DateTimeGenerator\\obj\\",
+        "outputPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\DateTimeGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

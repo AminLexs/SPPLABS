@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5sem\\СПП\\MPP-Lab_2-master\\IntegerGenerator\\IntegerGenerator.csproj",
+      "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab2\\IntegerGenerator\\IntegerGenerator.csproj",
       "projectName": "IntegerGenerator",
-      "projectPath": "D:\\5sem\\СПП\\MPP-Lab_2-master\\IntegerGenerator\\IntegerGenerator.csproj",
+      "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\IntegerGenerator\\IntegerGenerator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\5sem\\СПП\\MPP-Lab_2-master\\IntegerGenerator\\obj\\",
+      "outputPath": "D:\\5sem\\СПП(GitHub)\\Lab2\\IntegerGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
