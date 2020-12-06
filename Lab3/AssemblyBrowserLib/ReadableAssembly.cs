@@ -58,7 +58,7 @@ namespace AssemblyBrowserLib
                     this.namespaces.Add(currentNamespace);
                 }
                 currentNamespace.AddType(type);
-                //extensions check
+
                 BindingFlags bindingFlags = BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic |
                 BindingFlags.Static | BindingFlags.DeclaredOnly;
                 var methods = type.GetMethods(bindingFlags);

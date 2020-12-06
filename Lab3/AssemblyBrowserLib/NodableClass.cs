@@ -96,7 +96,7 @@ namespace AssemblyBrowserLib
             {
                 this.interfaces.Add(classInterface.Name);
             }
-            //Yes I don't remember how to determine that a type is not declared
+            
             if (classType.BaseType != null && classType.BaseType.Name != "Object")
             {
                 this.baseClass = classType.BaseType.Name;

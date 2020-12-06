@@ -52,16 +52,7 @@ namespace AssemblyBrowserLib
                     presentationString += parameters.Last();
                 }
                 presentationString += ")";
-                /*if (this.genericParameters.Count > 0)
-                {
-                    presentationString += "<";
-                    for (int i = 0; i < this.genericParameters.Count - 1; i++)
-                    {
-                        presentationString += genericParameters[i] + ", ";
-                    }
-                    presentationString += genericParameters[genericParameters.Count - 1];
-                    presentationString += ">";
-                }*/
+
                 return presentationString;
             }
         }

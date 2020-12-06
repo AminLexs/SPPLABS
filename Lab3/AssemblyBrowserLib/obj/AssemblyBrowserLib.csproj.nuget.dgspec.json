@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5sem\\СПП(Материалы)\\MPP03-master\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj": {}
+    "D:\\5sem\\СПП(GitHub)\\Lab3\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj": {}
   },
   "projects": {
-    "D:\\5sem\\СПП(Материалы)\\MPP03-master\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj": {
+    "D:\\5sem\\СПП(GitHub)\\Lab3\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5sem\\СПП(Материалы)\\MPP03-master\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj",
+        "projectUniqueName": "D:\\5sem\\СПП(GitHub)\\Lab3\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj",
         "projectName": "AssemblyBrowserLib",
-        "projectPath": "D:\\5sem\\СПП(Материалы)\\MPP03-master\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj",
+        "projectPath": "D:\\5sem\\СПП(GitHub)\\Lab3\\AssemblyBrowserLib\\AssemblyBrowserLib.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\5sem\\СПП(Материалы)\\MPP03-master\\AssemblyBrowserLib\\obj\\",
+        "outputPath": "D:\\5sem\\СПП(GitHub)\\Lab3\\AssemblyBrowserLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
